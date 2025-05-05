@@ -1,0 +1,8 @@
+This is an example text file.
+You can add your content here.
+Feel free to modify this template as needed.
+
+ddd
+ffff
+gggg
+kkkk
